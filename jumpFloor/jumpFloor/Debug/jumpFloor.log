@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\水\desktop\test\jumpfloor\jumpfloor\main.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\水\desktop\test\jumpfloor\jumpfloor\main.cpp(31): warning C4101: “n3”: 未引用的局部变量
+  jumpFloor.vcxproj -> C:\Users\水\Desktop\test\jumpFloor\Debug\jumpFloor.exe
+  jumpFloor.vcxproj -> C:\Users\水\Desktop\test\jumpFloor\Debug\jumpFloor.pdb (Partial PDB)

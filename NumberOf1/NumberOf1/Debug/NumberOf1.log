@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\numberof1\numberof1\main.cpp(45): warning C4715: “Solution::NumberOf1”: 不是所有的控件路径都返回值
+  NumberOf1.vcxproj -> C:\Users\水\Desktop\test\NumberOf1\Debug\NumberOf1.exe
+  NumberOf1.vcxproj -> C:\Users\水\Desktop\test\NumberOf1\Debug\NumberOf1.pdb (Partial PDB)

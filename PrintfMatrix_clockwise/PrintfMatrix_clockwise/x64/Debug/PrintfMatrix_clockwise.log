@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\水\desktop\test\printfmatrix_clockwise\printfmatrix_clockwise\main.cpp(17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\水\desktop\test\printfmatrix_clockwise\printfmatrix_clockwise\main.cpp(18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PrintfMatrix_clockwise.vcxproj -> C:\Users\水\Desktop\test\PrintfMatrix_clockwise\x64\Debug\PrintfMatrix_clockwise.exe
+  PrintfMatrix_clockwise.vcxproj -> C:\Users\水\Desktop\test\PrintfMatrix_clockwise\x64\Debug\PrintfMatrix_clockwise.pdb (Partial PDB)

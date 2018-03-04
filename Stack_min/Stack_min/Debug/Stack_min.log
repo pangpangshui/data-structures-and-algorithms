@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\stack_min\stack_min\main.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  Stack_min.vcxproj -> C:\Users\水\Desktop\test\Stack_min\Debug\Stack_min.exe
+  Stack_min.vcxproj -> C:\Users\水\Desktop\test\Stack_min\Debug\Stack_min.pdb (Partial PDB)

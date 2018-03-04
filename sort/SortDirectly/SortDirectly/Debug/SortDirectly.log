@@ -1,0 +1,4 @@
+﻿  main2.cpp
+c:\users\shui\desktop\test\sort\sortdirectly\sortdirectly\main2.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+  SortDirectly.vcxproj -> C:\Users\SHUI\Desktop\test\sort\SortDirectly\Debug\SortDirectly.exe
+  SortDirectly.vcxproj -> C:\Users\SHUI\Desktop\test\sort\SortDirectly\Debug\SortDirectly.pdb (Partial PDB)

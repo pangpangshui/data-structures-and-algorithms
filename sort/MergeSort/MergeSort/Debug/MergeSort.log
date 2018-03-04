@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\shui\desktop\test\mergesort\mergesort\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\mergesort\mergesort\main.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\mergesort\mergesort\main.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\mergesort\mergesort\main.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  MergeSort.vcxproj -> C:\Users\SHUI\Desktop\test\MergeSort\Debug\MergeSort.exe
+  MergeSort.vcxproj -> C:\Users\SHUI\Desktop\test\MergeSort\Debug\MergeSort.pdb (Partial PDB)

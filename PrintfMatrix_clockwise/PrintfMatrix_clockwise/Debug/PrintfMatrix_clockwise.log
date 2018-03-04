@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\printfmatrix_clockwise\printfmatrix_clockwise\main.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  PrintfMatrix_clockwise.vcxproj -> C:\Users\水\Desktop\test\PrintfMatrix_clockwise\Debug\PrintfMatrix_clockwise.exe
+  PrintfMatrix_clockwise.vcxproj -> C:\Users\水\Desktop\test\PrintfMatrix_clockwise\Debug\PrintfMatrix_clockwise.pdb (Partial PDB)

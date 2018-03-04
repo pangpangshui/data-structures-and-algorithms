@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\水\desktop\test\stack_quene\stack_quene\main.cpp(82): warning C4715: “getStackTop”: 不是所有的控件路径都返回值
+c:\users\水\desktop\test\stack_quene\stack_quene\main.cpp(140): warning C4715: “getQueneTop”: 不是所有的控件路径都返回值
+  Stack_Quene.vcxproj -> C:\Users\水\Desktop\test\Stack_Quene\Debug\Stack_Quene.exe
+  Stack_Quene.vcxproj -> C:\Users\水\Desktop\test\Stack_Quene\Debug\Stack_Quene.pdb (Partial PDB)

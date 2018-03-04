@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\水\desktop\test\kmp\kmp\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\kmp\kmp\main.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  KMP.vcxproj -> C:\Users\水\Desktop\test\KMP\Debug\KMP.exe
+  KMP.vcxproj -> C:\Users\水\Desktop\test\KMP\Debug\KMP.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+C:\Users\水\Desktop\test\des\des\bin\Debug\des.exe.config
+C:\Users\水\Desktop\test\des\des\bin\Debug\des.exe
+C:\Users\水\Desktop\test\des\des\bin\Debug\des.pdb
+C:\Users\水\Desktop\test\des\des\obj\Debug\des.csprojResolveAssemblyReference.cache
+C:\Users\水\Desktop\test\des\des\obj\Debug\des.exe
+C:\Users\水\Desktop\test\des\des\obj\Debug\des.pdb

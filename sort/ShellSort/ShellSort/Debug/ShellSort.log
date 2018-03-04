@@ -1,0 +1,6 @@
+﻿  main2.cpp
+c:\users\shui\desktop\test\sort\shellsort\shellsort\main2.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\shellsort\shellsort\main2.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\shellsort\shellsort\main2.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  ShellSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\ShellSort\Debug\ShellSort.exe
+  ShellSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\ShellSort\Debug\ShellSort.pdb (Partial PDB)

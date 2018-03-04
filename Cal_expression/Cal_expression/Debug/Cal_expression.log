@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\水\desktop\test\cal_expression\cal_expression\main.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\cal_expression\cal_expression\main.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\cal_expression\cal_expression\main.cpp(190): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\cal_expression\cal_expression\main.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\cal_expression\cal_expression\main.cpp(141): warning C4172: 返回局部变量或临时变量的地址: suffix
+  Cal_expression.vcxproj -> C:\Users\水\Desktop\test\Cal_expression\Debug\Cal_expression.exe
+  Cal_expression.vcxproj -> C:\Users\水\Desktop\test\Cal_expression\Debug\Cal_expression.pdb (Partial PDB)

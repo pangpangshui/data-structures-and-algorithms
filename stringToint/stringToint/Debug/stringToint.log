@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\stringtoint\stringtoint\main.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+  stringToint.vcxproj -> C:\Users\水\Desktop\test\stringToint\Debug\stringToint.exe
+  stringToint.vcxproj -> C:\Users\水\Desktop\test\stringToint\Debug\stringToint.pdb (Partial PDB)

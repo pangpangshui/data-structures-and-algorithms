@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\水\desktop\test\reorderarray_odd-even\reorderarray_odd-even\main.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\水\desktop\test\reorderarray_odd-even\reorderarray_odd-even\main.cpp(9): warning C4101: “evenindex”: 未引用的局部变量
+  reOrderArray_odd-even.vcxproj -> C:\Users\水\Desktop\test\reOrderArray_odd-even\Debug\reOrderArray_odd-even.exe
+  reOrderArray_odd-even.vcxproj -> C:\Users\水\Desktop\test\reOrderArray_odd-even\Debug\reOrderArray_odd-even.pdb (Partial PDB)

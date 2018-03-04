@@ -1,0 +1,5 @@
+﻿  main2.cpp
+c:\users\shui\desktop\test\sort\binsort\binsort\main2.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\binsort\binsort\main2.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  BinSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\BinSort\Debug\BinSort.exe
+  BinSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\BinSort\Debug\BinSort.pdb (Partial PDB)

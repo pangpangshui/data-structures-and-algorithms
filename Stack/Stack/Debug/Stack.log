@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\水\desktop\test\stack\stack\main.cpp(96): warning C4244: “参数”: 从“long”转换到“char”，可能丢失数据
+c:\users\水\desktop\test\stack\stack\main.cpp(97): warning C4244: “参数”: 从“long”转换到“char”，可能丢失数据
+c:\users\水\desktop\test\stack\stack\main.cpp(100): warning C4244: “参数”: 从“long”转换到“char”，可能丢失数据
+  Stack.vcxproj -> C:\Users\水\Desktop\test\Stack\Debug\Stack.exe
+  Stack.vcxproj -> C:\Users\水\Desktop\test\Stack\Debug\Stack.pdb (Partial PDB)

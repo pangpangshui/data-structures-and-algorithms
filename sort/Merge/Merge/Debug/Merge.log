@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\merge\merge\main.cpp(55): warning C4101: “temp1”: 未引用的局部变量
+  Merge.vcxproj -> C:\Users\水\Desktop\test\Merge\Debug\Merge.exe
+  Merge.vcxproj -> C:\Users\水\Desktop\test\Merge\Debug\Merge.pdb (Partial PDB)

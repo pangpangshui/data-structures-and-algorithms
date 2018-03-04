@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\水\desktop\test\link\link\main.cpp(49): warning C4715: “locate_node”: 不是所有的控件路径都返回值
+c:\users\水\desktop\test\link\link\main.cpp(64): warning C4715: “locatePre_node”: 不是所有的控件路径都返回值
+c:\users\水\desktop\test\link\link\main.cpp(110): warning C4715: “DeleteNode”: 不是所有的控件路径都返回值
+c:\users\水\desktop\test\link\link\main.cpp(128): warning C4715: “DeletePreNode”: 不是所有的控件路径都返回值
+  link.vcxproj -> C:\Users\水\Desktop\test\link\Debug\link.exe
+  link.vcxproj -> C:\Users\水\Desktop\test\link\Debug\link.pdb (Partial PDB)

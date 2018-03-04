@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\findkthtotail\findkthtotail\main.cpp(61): warning C4018: “>”: 有符号/无符号不匹配
+  FindKthToTail.vcxproj -> C:\Users\水\Desktop\test\FindKthToTail\Debug\FindKthToTail.exe
+  FindKthToTail.vcxproj -> C:\Users\水\Desktop\test\FindKthToTail\Debug\FindKthToTail.pdb (Partial PDB)

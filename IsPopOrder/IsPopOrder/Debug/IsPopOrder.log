@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\水\desktop\test\ispoporder\ispoporder\main.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  IsPopOrder.vcxproj -> C:\Users\水\Desktop\test\IsPopOrder\Debug\IsPopOrder.exe
+  IsPopOrder.vcxproj -> C:\Users\水\Desktop\test\IsPopOrder\Debug\IsPopOrder.pdb (Partial PDB)

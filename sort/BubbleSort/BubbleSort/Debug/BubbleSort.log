@@ -1,0 +1,7 @@
+﻿  main2.cpp
+c:\users\shui\desktop\test\sort\bubblesort\bubblesort\main2.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\bubblesort\bubblesort\main2.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\bubblesort\bubblesort\main2.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\shui\desktop\test\sort\bubblesort\bubblesort\main2.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  BubbleSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\BubbleSort\Debug\BubbleSort.exe
+  BubbleSort.vcxproj -> C:\Users\SHUI\Desktop\test\sort\BubbleSort\Debug\BubbleSort.pdb (Partial PDB)
